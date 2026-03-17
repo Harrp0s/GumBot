@@ -1,4 +1,6 @@
 # GumBot
+> Currently still 3D designing specific parts on Fusion, but the circuit schematic is basically complete. More files will be uploaded later for the final project shipment; right now, it's just for early approval in case there are core project issues that need to be addressed first.
+
 ## Description
 GumBot is an autonomous turret designed to satisfy your gum cravings. Inspired by a YouTube video, I will be reverse-engineering GumBot from scratch to detect, aim, and launch gum straight into a passerby's mouth.
 
